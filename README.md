@@ -75,11 +75,7 @@ The workflow operates in the following steps:
 
 ## Usage
 
-Once the MCP server is running, you can ask questions through Claude using:
-
-```python
-local_pdf_citation("Your question about the PDF content here")
-```
+Once the MCP server is running, you can ask questions through Claude.
 
 The server will return:
 - Answer with citations
